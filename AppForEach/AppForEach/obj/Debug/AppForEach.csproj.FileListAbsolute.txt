@@ -1,0 +1,6 @@
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppForEach\AppForEach\bin\Debug\AppForEach.exe.config
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppForEach\AppForEach\bin\Debug\AppForEach.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppForEach\AppForEach\bin\Debug\AppForEach.pdb
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppForEach\AppForEach\obj\Debug\AppForEach.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppForEach\AppForEach\obj\Debug\AppForEach.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppForEach\AppForEach\obj\Debug\AppForEach.pdb

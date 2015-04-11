@@ -1,0 +1,5 @@
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumerosMayoresAMil\AppNumerosMayoresAMil\bin\Debug\AppNumerosMayoresAMil.exe.config
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumerosMayoresAMil\AppNumerosMayoresAMil\bin\Debug\AppNumerosMayoresAMil.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumerosMayoresAMil\AppNumerosMayoresAMil\bin\Debug\AppNumerosMayoresAMil.pdb
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumerosMayoresAMil\AppNumerosMayoresAMil\obj\Debug\AppNumerosMayoresAMil.exe
+c:\users\lab104bpc17\documents\visual studio 2012\Projects\AppNumerosMayoresAMil\AppNumerosMayoresAMil\obj\Debug\AppNumerosMayoresAMil.pdb
